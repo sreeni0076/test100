@@ -1,0 +1,4 @@
+D:\Desktop\test>test2.bat
+"SOURCE" D:\Desktop\test
+"TARGET"  D:\desktop\test\2020-05-17-23-17-26\
+        1 file(s) moved.
